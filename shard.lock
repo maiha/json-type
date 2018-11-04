@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  pretty:
+    github: maiha/pretty.cr
+    version: 0.6.5
+
+  shell:
+    github: maiha/shell.cr
+    version: 0.3.0
+

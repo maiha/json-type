@@ -1,0 +1,19 @@
+name: json-type
+version: 0.1.0
+
+authors:
+  - maiha <maiha@wota.jp>
+
+targets:
+  json-type:
+    main: src/json-type.cr
+
+dependencies:
+  shell:
+    github: maiha/shell.cr
+    version: 0.3.0
+  shard:
+    github: maiha/shard.cr
+    version: 0.3.0
+    
+license: MIT
